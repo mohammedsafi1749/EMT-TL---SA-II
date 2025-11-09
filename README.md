@@ -1,2 +1,2 @@
-# EMT-TL---SA-II
-##Energy density of capacitor and inductor
+## EMT & TL--SA-II
+## Energy density of capacitor and inductor
