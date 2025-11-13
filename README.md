@@ -94,7 +94,7 @@ or
 - Grid filters use inductors with high magnetic energy density.
 - Ultra-capacitors store energy for micro-grids.
 
-  <img width="900" height="420" alt="image" src="https://github.com/user-attachments/assets/7eb68710-f40c-4fb9-ada7-92058d822bda" />
+![WhatsApp Image 2025-11-13 at 21 38 48_1d1b5b04](https://github.com/user-attachments/assets/9c7f1502-d5b3-4d1a-9858-df89b68a9491)
 
 ### RF and High-Frequency Circuits
 - Capacitors and inductors determine resonance frequency and bandwidth.
