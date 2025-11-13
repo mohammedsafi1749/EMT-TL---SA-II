@@ -85,6 +85,8 @@ or
 ### Power Electronics
 - DC-link capacitors in inverters (EVs, solar, UPS).
 - Energy density determines capacitor size and thermal performance.
+  <img width="600" height="356" alt="image" src="https://github.com/user-attachments/assets/9ffc1afb-c77a-42c6-9374-392736f9be3e" />
+
 ### Communication Systems
 - Inductors and capacitors form LC filters, matching networks, oscillators.
 ### Renewable Energy Systems
