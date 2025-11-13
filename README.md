@@ -104,4 +104,9 @@ Understanding energy density helps engineers design compact, efficient, and reli
 Capacitors and inductors play a crucial role in energy storage within electrical systems.
 
 The energy density expressions:
+
 <img width="944" height="162" alt="image" src="https://github.com/user-attachments/assets/9887b37a-015a-467c-8519-366df8ba5ac6" />
+
+show that energy is directly linked to electric and magnetic fields.
+
+Knowledge of these principles allows engineers to design components that are efficient, compact, and suitable for modern high-performance applications in power electronics, communication, renewable energy, and embedded systems.
