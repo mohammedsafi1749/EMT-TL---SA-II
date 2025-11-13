@@ -111,3 +111,5 @@ show that energy is directly linked to electric and magnetic fields.
 
 Knowledge of these principles allows engineers to design components that are efficient, compact, and suitable for modern high-performance applications in power electronics, communication, renewable energy, and embedded systems.
 ## 7. REFERENCES
+1. Ministry of Education, Government of India. “Fundamentals of Electric and Magnetic Fields in Engineering Education.” Official digital resources for higher education.
+URL: https://www.education.gov.in/
