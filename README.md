@@ -7,7 +7,7 @@ In electrical and electronic systems, capacitors and inductors are two fundament
 The concept of energy density (energy stored per unit volume) helps engineers understand how efficiently a device can store energy and how small or large it needs to be for practical applications.
 
 Understanding the energy density of capacitors and inductors is crucial in power electronics, communication systems, filters, renewable energy converters, and many core-industry ECE applications.
-## 2. Energy Density of a Capacitor
+## 2. ENERGY DENSITY OF A CAPACITOR
 A capacitor consists of two conducting plates separated by a dielectric material.
 
 ### Energy Stored in a Capacitor
@@ -39,7 +39,7 @@ Substituting gives:
 2. Higher permittivity (ε) materials can store more energy.
 3. The limit is dielectric breakdown (maximum electric field before failure).
 
-## 3. Energy Density of an Inductor
+## 3. ENERGY DENSITY OF A INDUCTOR
 An inductor is a coil that stores energy in its magnetic field when current flows.
 
 ### Energy Stored in an Inductor
@@ -70,4 +70,4 @@ or
 1. Energy density increases with magnetic field (B).
 2. Maximum energy stored depends on core saturation in inductors.
 3. Higher μ materials (ferrite, iron cores) increase energy density.
-
+## 4. COMPARISON OF CAPACITOR & INDUCTOR ENERGY DENSITY
