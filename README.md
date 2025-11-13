@@ -40,7 +40,7 @@ Meaning
 2. Higher permittivity (ε) materials can store more energy.
 3. The limit is dielectric breakdown (maximum electric field before failure).
 
-## Energy Density of an Inductor
+## 3. Energy Density of an Inductor
 An inductor is a coil that stores energy in its magnetic field when current flows.
 
 Energy Stored in an Inductor
@@ -49,4 +49,25 @@ Energy Stored in an Inductor
 
 
 The magnetic field in a solenoid:
+
+<img width="796" height="65" alt="image" src="https://github.com/user-attachments/assets/5ee54850-df4f-4afa-8b05-48a27a1ddcfe" />
+
+Where:
+1. μ = permeability
+2. n = turns per meter
+
+Energy Density
+
+Magnetic field energy density:
+
+<img width="883" height="113" alt="image" src="https://github.com/user-attachments/assets/bfe7a2cb-2cec-4c39-ac0a-8dba479931a7" />
+
+or
+
+<img width="788" height="104" alt="image" src="https://github.com/user-attachments/assets/c83c36ac-4ed0-4704-9971-afa9984a57da" />
+
+Meaning
+1. Energy density increases with magnetic field (B).
+2. Maximum energy stored depends on core saturation in inductors.
+3. Higher μ materials (ferrite, iron cores) increase energy density.
 
