@@ -113,3 +113,5 @@ Knowledge of these principles allows engineers to design components that are eff
 ## 7. REFERENCES
 1. Ministry of Education, Government of India. “Fundamentals of Electric and Magnetic Fields in Engineering Education.” Official digital resources for higher education.
 URL: https://www.education.gov.in/
+2. National Programme on Technology Enhanced Learning (NPTEL). IIT lectures on “Electromagnetic Fields,” “Basics of Capacitors,” and “Magnetic Energy Storage in Inductors.”
+URL: https://nptel.ac.in
