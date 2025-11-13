@@ -81,3 +81,4 @@ or
 - Inductors store more energy in high-μ cores but saturate at high currents.
 - In power circuits, both are used together (filters, resonant circuits).
 - Energy density determines size, efficiency, and material selection.
+## 5. APPLICATIONS IN ECE CORE INDUSTRY
