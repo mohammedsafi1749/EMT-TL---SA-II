@@ -39,3 +39,5 @@ Meaning
 1. Energy density increases if the electric field increases.
 2. Higher permittivity (ε) materials can store more energy.
 3. The limit is dielectric breakdown (maximum electric field before failure).
+
+## Energy Density of an Inductor
