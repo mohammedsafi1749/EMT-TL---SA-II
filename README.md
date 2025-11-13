@@ -6,3 +6,4 @@ In electrical and electronic systems, capacitors and inductors are two fundament
 The concept of energy density (energy stored per unit volume) helps engineers understand how efficiently a device can store energy and how small or large it needs to be for practical applications.
 
 Understanding the energy density of capacitors and inductors is crucial in power electronics, communication systems, filters, renewable energy converters, and many core-industry ECE applications.
+## THEORY / BACKGROUND
