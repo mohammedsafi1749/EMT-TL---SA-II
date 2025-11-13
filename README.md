@@ -14,3 +14,8 @@ A capacitor consists of two conducting plates separated by a dielectric material
 Energy Stored in a Capacitor
 
 <img width="1031" height="90" alt="image" src="https://github.com/user-attachments/assets/2beda604-e842-475a-b0fe-269b3d7d56a5" />
+
+For a parallel-plate capacitor:
+
+<img width="927" height="94" alt="image" src="https://github.com/user-attachments/assets/eaf5aa0c-1d1d-4b6d-913a-cb5839d64bd5" />
+
