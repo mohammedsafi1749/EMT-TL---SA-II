@@ -82,3 +82,14 @@ or
 - In power circuits, both are used together (filters, resonant circuits).
 - Energy density determines size, efficiency, and material selection.
 ## 5. APPLICATIONS IN ECE CORE INDUSTRY
+### Power Electronics
+- DC-link capacitors in inverters (EVs, solar, UPS).
+- Energy density determines capacitor size and thermal performance.
+### Communication Systems
+- Inductors and capacitors form LC filters, matching networks, oscillators.
+### Renewable Energy Systems
+- Grid filters use inductors with high magnetic energy density.
+- Ultra-capacitors store energy for micro-grids.
+### RF and High-Frequency Circuits
+- Capacitors and inductors determine resonance frequency and bandwidth.
+Understanding energy density helps engineers design compact, efficient, and reliable systems in the core ECE industry.
