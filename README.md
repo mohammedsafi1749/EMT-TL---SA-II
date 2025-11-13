@@ -71,3 +71,4 @@ or
 2. Maximum energy stored depends on core saturation in inductors.
 3. Higher μ materials (ferrite, iron cores) increase energy density.
 ## 4. COMPARISON OF CAPACITOR & INDUCTOR ENERGY DENSITY
+<img width="1201" height="199" alt="image" src="https://github.com/user-attachments/assets/6f93ea04-8367-4cf7-aa72-14fe0ef7ecdd" />
