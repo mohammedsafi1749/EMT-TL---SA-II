@@ -92,4 +92,5 @@ or
 - Ultra-capacitors store energy for micro-grids.
 ### RF and High-Frequency Circuits
 - Capacitors and inductors determine resonance frequency and bandwidth.
+
 Understanding energy density helps engineers design compact, efficient, and reliable systems in the core ECE industry.
