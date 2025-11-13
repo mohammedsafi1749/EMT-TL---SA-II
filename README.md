@@ -10,6 +10,7 @@ The concept of energy density (energy stored per unit volume) helps engineers un
 Understanding the energy density of capacitors and inductors is crucial in power electronics, communication systems, filters, renewable energy converters, and many core-industry ECE applications.
 ## Energy Density of a Capacitor
 A capacitor consists of two conducting plates separated by a dielectric material.
+
 Energy Stored in a Capacitor
 
 <img width="1031" height="90" alt="image" src="https://github.com/user-attachments/assets/2beda604-e842-475a-b0fe-269b3d7d56a5" />
