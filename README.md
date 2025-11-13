@@ -41,3 +41,12 @@ Meaning
 3. The limit is dielectric breakdown (maximum electric field before failure).
 
 ## Energy Density of an Inductor
+An inductor is a coil that stores energy in its magnetic field when current flows.
+
+Energy Stored in an Inductor
+
+<img width="792" height="91" alt="image" src="https://github.com/user-attachments/assets/4178d673-8e28-4824-8317-65a7e31a0209" />
+
+
+The magnetic field in a solenoid:
+
