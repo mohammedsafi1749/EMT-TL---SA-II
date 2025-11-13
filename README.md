@@ -110,3 +110,4 @@ The energy density expressions:
 show that energy is directly linked to electric and magnetic fields.
 
 Knowledge of these principles allows engineers to design components that are efficient, compact, and suitable for modern high-performance applications in power electronics, communication, renewable energy, and embedded systems.
+## 7. REFERENCES
