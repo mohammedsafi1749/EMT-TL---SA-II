@@ -50,6 +50,8 @@ Energy Stored in an Inductor
 
 The magnetic field in a solenoid:
 
+<img width="394" height="266" alt="image" src="https://github.com/user-attachments/assets/6f5be45e-73de-4d81-a80a-8ccac06cb8d3" />
+
 <img width="796" height="65" alt="image" src="https://github.com/user-attachments/assets/5ee54850-df4f-4afa-8b05-48a27a1ddcfe" />
 
 Where:
