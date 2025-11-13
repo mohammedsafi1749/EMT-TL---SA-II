@@ -17,14 +17,14 @@ A capacitor consists of two conducting plates separated by a dielectric material
 <img width="459" height="720" alt="image" src="https://github.com/user-attachments/assets/0d751cd4-dd1c-48b6-ad11-a62df1079911" />
 
 
-For a parallel-plate capacitor:
+### For a parallel-plate capacitor:
 
 <img width="927" height="94" alt="image" src="https://github.com/user-attachments/assets/eaf5aa0c-1d1d-4b6d-913a-cb5839d64bd5" />
 
 ![WhatsApp Image 2025-11-13 at 19 54 09_44a65a15](https://github.com/user-attachments/assets/962080e9-158c-41a6-aafb-c249b0d3b499)
 
 
-Energy Density
+### Energy Density
 
 Energy density is energy per unit volume:
 
@@ -34,7 +34,7 @@ Substituting gives:
 
 <img width="827" height="119" alt="image" src="https://github.com/user-attachments/assets/8934f3d9-0c90-4be5-88a0-abb73cdb64ef" />
 
-Meaning
+### Meaning
 1. Energy density increases if the electric field increases.
 2. Higher permittivity (ε) materials can store more energy.
 3. The limit is dielectric breakdown (maximum electric field before failure).
@@ -42,12 +42,11 @@ Meaning
 ## 3. Energy Density of an Inductor
 An inductor is a coil that stores energy in its magnetic field when current flows.
 
-Energy Stored in an Inductor
+### Energy Stored in an Inductor
 
 <img width="792" height="91" alt="image" src="https://github.com/user-attachments/assets/4178d673-8e28-4824-8317-65a7e31a0209" />
 
-
-The magnetic field in a solenoid:
+### The magnetic field in a solenoid:
 
 <img width="394" height="266" alt="image" src="https://github.com/user-attachments/assets/6f5be45e-73de-4d81-a80a-8ccac06cb8d3" />
 
@@ -57,7 +56,7 @@ Where:
 1. μ = permeability
 2. n = turns per meter
 
-Energy Density
+### Energy Density
 
 Magnetic field energy density:
 
