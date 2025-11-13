@@ -53,8 +53,8 @@ An inductor is a coil that stores energy in its magnetic field when current flow
 <img width="796" height="65" alt="image" src="https://github.com/user-attachments/assets/5ee54850-df4f-4afa-8b05-48a27a1ddcfe" />
 
 Where:
-1. μ = permeability
-2. n = turns per meter
+- μ = permeability
+- n = turns per meter
 
 ### Energy Density
 
@@ -66,7 +66,7 @@ or
 
 <img width="788" height="104" alt="image" src="https://github.com/user-attachments/assets/c83c36ac-4ed0-4704-9971-afa9984a57da" />
 
-Meaning
+### Meaning
 1. Energy density increases with magnetic field (B).
 2. Maximum energy stored depends on core saturation in inductors.
 3. Higher μ materials (ferrite, iron cores) increase energy density.
