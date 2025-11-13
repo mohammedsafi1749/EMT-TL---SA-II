@@ -1,4 +1,4 @@
-# Energy density of capacitor and inductor
+# Energy Density of Capacitor and Inductor
 ## 1. INTRODUCTION
 ![WhatsApp Image 2025-11-13 at 19 13 33_f6c6d661](https://github.com/user-attachments/assets/e64451ee-c25d-48f3-b737-e55ab174382f)
 
