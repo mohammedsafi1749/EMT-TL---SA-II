@@ -18,7 +18,7 @@ Energy Stored in a Capacitor
 For a parallel-plate capacitor:
 
 <img width="927" height="94" alt="image" src="https://github.com/user-attachments/assets/eaf5aa0c-1d1d-4b6d-913a-cb5839d64bd5" />
-![WhatsApp Image 2025-11-13 at 19 54 09_5b45ec2b](https://github.com/user-attachments/assets/58c5fdc2-c663-413b-891b-ef2dea87e499)
+![WhatsApp Image 2025-11-13 at 19 54 09_44a65a15](https://github.com/user-attachments/assets/962080e9-158c-41a6-aafb-c249b0d3b499)
 
 
 Energy Density
