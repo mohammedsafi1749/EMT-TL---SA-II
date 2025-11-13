@@ -119,3 +119,9 @@ URL: https://nptel.ac.in
 
 3. IEEE Xplore Digital Library – Research on Capacitor and Inductor Energy Storage.
 Example: “High Energy Density Capacitors for Power Electronics,” IEEE Transactions on Power Electronics, 2022.URL:https://ieeexplore.ieee.org/
+
+4. HyperPhysics – Georgia State University. “Electric Field Energy Density” and “Magnetic Field Energy Density.”
+URL:http://hyperphysics.phy-astr.gsu.edu/
+
+5. Electrical4U – Educational articles on “Capacitor Basics,” “Inductor Basics,” and “Energy Density in Electromagnetic Fields.”
+URL:https://www.electrical4u.com/
