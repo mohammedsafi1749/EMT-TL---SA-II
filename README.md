@@ -85,6 +85,7 @@ or
 ### Power Electronics
 - DC-link capacitors in inverters (EVs, solar, UPS).
 - Energy density determines capacitor size and thermal performance.
+
   <img width="600" height="356" alt="image" src="https://github.com/user-attachments/assets/9ffc1afb-c77a-42c6-9374-392736f9be3e" />
 
 ### Communication Systems
@@ -92,6 +93,9 @@ or
 ### Renewable Energy Systems
 - Grid filters use inductors with high magnetic energy density.
 - Ultra-capacitors store energy for micro-grids.
+
+  <img width="900" height="420" alt="image" src="https://github.com/user-attachments/assets/7eb68710-f40c-4fb9-ada7-92058d822bda" />
+
 ### RF and High-Frequency Circuits
 - Capacitors and inductors determine resonance frequency and bandwidth.
 
