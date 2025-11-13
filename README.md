@@ -100,4 +100,8 @@ or
 - Capacitors and inductors determine resonance frequency and bandwidth.
 
 Understanding energy density helps engineers design compact, efficient, and reliable systems in the core ECE industry.
-## CONCLUSION
+## 6. CONCLUSION
+Capacitors and inductors play a crucial role in energy storage within electrical systems.
+
+The energy density expressions:
+<img width="944" height="162" alt="image" src="https://github.com/user-attachments/assets/9887b37a-015a-467c-8519-366df8ba5ac6" />
