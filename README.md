@@ -19,3 +19,17 @@ For a parallel-plate capacitor:
 
 <img width="927" height="94" alt="image" src="https://github.com/user-attachments/assets/eaf5aa0c-1d1d-4b6d-913a-cb5839d64bd5" />
 
+Energy Density
+
+Energy density is energy per unit volume:
+
+<img width="747" height="91" alt="image" src="https://github.com/user-attachments/assets/7f3695bb-a4cf-4d4c-9f68-2c8a19bf29aa" />
+
+Substituting gives:
+
+<img width="827" height="119" alt="image" src="https://github.com/user-attachments/assets/8934f3d9-0c90-4be5-88a0-abb73cdb64ef" />
+
+Meaning
+1. Energy density increases if the electric field increases.
+2. Higher permittivity (ε) materials can store more energy.
+3. The limit is dielectric breakdown (maximum electric field before failure).
