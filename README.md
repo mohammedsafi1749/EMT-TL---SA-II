@@ -72,3 +72,9 @@ or
 3. Higher μ materials (ferrite, iron cores) increase energy density.
 ## 4. COMPARISON OF CAPACITOR & INDUCTOR ENERGY DENSITY
 <img width="1201" height="199" alt="image" src="https://github.com/user-attachments/assets/6f93ea04-8367-4cf7-aa72-14fe0ef7ecdd" />
+
+### Key Points
+- Capacitors have high energy density when dielectric strength is high.
+- Inductors store more energy in high-μ cores but saturate at high currents.
+- In power circuits, both are used together (filters, resonant circuits).
+- Energy density determines size, efficiency, and material selection.
