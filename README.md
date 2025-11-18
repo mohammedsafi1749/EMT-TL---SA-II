@@ -109,9 +109,16 @@ or
 
 ### Communication Systems
 - Inductors and capacitors form LC filters, matching networks, oscillators.
+- Inductors form tuning circuits in RF receivers
+- Capacitors used in band-pass and band-stop filters
+- LC circuits determine resonance in antennas
+- High-frequency ceramic capacitors used in mobile phones
 ### Renewable Energy Systems
 - Grid filters use inductors with high magnetic energy density.
 - Ultra-capacitors store energy for micro-grids.
+- Capacitors used in MPPT charge controllers
+- Inductors used in grid-tied inverter smoothing
+- Supercapacitors store regenerative braking energy
 
 ![WhatsApp Image 2025-11-13 at 21 38 48_1d1b5b04](https://github.com/user-attachments/assets/9c7f1502-d5b3-4d1a-9858-df89b68a9491)
 
