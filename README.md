@@ -48,6 +48,8 @@ Substituting gives:
 ## 3. ENERGY DENSITY OF A INDUCTOR
 An inductor is a coil that stores energy in its magnetic field when current flows.
 
+An inductor stores energy in its magnetic field when current flows through its coil.
+
 ### Energy Stored in an Inductor
 
 <img width="792" height="91" alt="image" src="https://github.com/user-attachments/assets/4178d673-8e28-4824-8317-65a7e31a0209" />
