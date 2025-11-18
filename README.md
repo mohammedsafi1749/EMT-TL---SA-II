@@ -122,8 +122,12 @@ or
 
 ![WhatsApp Image 2025-11-13 at 21 38 48_1d1b5b04](https://github.com/user-attachments/assets/9c7f1502-d5b3-4d1a-9858-df89b68a9491)
 
-### RF and High-Frequency Circuits
+### Embedded and Consumer Electronics
 - Capacitors and inductors determine resonance frequency and bandwidth.
+- Capacitors stabilize microcontroller power supply
+- Inductors used in DC-DC converters for IoT/MCU boards
+- Mobile chargers use high-frequency ferrite inductors
+- Wireless charging uses magnetic field-based inductive coils
 
 Understanding energy density helps engineers design compact, efficient, and reliable systems in the core ECE industry.
 ## 6. CONCLUSION
