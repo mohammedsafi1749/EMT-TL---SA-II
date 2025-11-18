@@ -40,6 +40,10 @@ Substituting gives:
 1. Energy density increases if the electric field increases.
 2. Higher permittivity (ε) materials can store more energy.
 3. The limit is dielectric breakdown (maximum electric field before failure).
+4. Higher permittivity (ε) increases the energy storing capability.
+5. Materials like ceramic, mica, polymer film have higher dielectric strengths.
+6. Breakdown occurs when the dielectric cannot withstand the electric field.
+7. Energy density also depends on thickness, surface area, and whether the capacitor is polarized or non-polarized.
 
 ## 3. ENERGY DENSITY OF A INDUCTOR
 An inductor is a coil that stores energy in its magnetic field when current flows.
