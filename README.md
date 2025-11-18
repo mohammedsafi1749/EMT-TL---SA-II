@@ -86,6 +86,15 @@ or
 
 <img width="1201" height="199" alt="image" src="https://github.com/user-attachments/assets/6f93ea04-8367-4cf7-aa72-14fe0ef7ecdd" />
 
+| Property                             | Capacitor                      | Inductor                                           |
+| ------------------------------------ | ------------------------------ | -------------------------------------------------- |
+| Energy stored                        | Electric field                 | Magnetic field                                     |
+| Formula                              | ( \frac{1}{2}\varepsilon E^2 ) | ( \frac{B^2}{2\mu} )                               |
+| Main factor affecting energy density | Dielectric strength            | Core material & saturation                         |
+| Suitable for                         | High voltage, low current      | High current, low voltage                          |
+| Frequency behavior                   | Works well at high frequencies | Loses efficiency at high frequencies (core losses) |
+| Physical size                        | Smaller                        | Larger due to coils & cores                        |
+
 ### Key Points
 - Capacitors have high energy density when dielectric strength is high.
 - Inductors store more energy in high-μ cores but saturate at high currents.
