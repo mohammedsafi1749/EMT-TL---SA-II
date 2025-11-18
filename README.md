@@ -10,6 +10,8 @@ Understanding the energy density of capacitors and inductors is crucial in power
 ## 2. ENERGY DENSITY OF A CAPACITOR
 A capacitor consists of two conducting plates separated by a dielectric material.
 
+A capacitor stores charge on two plates separated by a dielectric. When voltage is applied, an electric field is created between the plates.
+
 ### Energy Stored in a Capacitor
 
 <img width="1031" height="90" alt="image" src="https://github.com/user-attachments/assets/2beda604-e842-475a-b0fe-269b3d7d56a5" />
